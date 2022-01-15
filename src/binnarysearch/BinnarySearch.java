@@ -19,6 +19,8 @@ public static int med;
      */
     public static void main(String[] args) {
         
+        System.out.print("HI!");
+        
         System.out.print("Masukkan Banyak Array = 7");    
         int[] Array = new int[8];
         Array[0]=8;
